@@ -1,3 +1,1 @@
-
-
-Django Image uploader
+##Django Image uploader##
